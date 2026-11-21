@@ -28,5 +28,5 @@ Working with Python functions
 Handling button events and user input
 Organising application logic
 ![Pink Calculator Preview](calculator-preview.jpg.png)
-👩‍💻 Author
+👩‍💻 Author:
 Developed as part of my journey in Python programming and software development.
